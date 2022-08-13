@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5nbeTqVD8LJ12LWWn8TOtphP7IXncH8IAWXXflJ0ZjM=",
+  "Source": "APIJuju",
+  "BasePath": "_content/APIJuju",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
